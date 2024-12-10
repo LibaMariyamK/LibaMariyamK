@@ -2,7 +2,7 @@
 <h3 align="center">Artificial Intelligence | Machine Learning | Deep Learning| Python </h3>
 
 # 💫 About Me:
-I am an analytical Data Scientist and AI/ML Engineer with a Master’s degree in Computer Science from the Central University of Kerala, specializing in Intelligent Systems. Proficient in Python, scikit-learn, and machine learning frameworks, I have experience in developing predictive models, data cleaning, and feature engineering. Passionate about leveraging AI and data-driven solutions to solve complex problems and make a positive societal impact.
+Analytical Data Scientist with a Master’s degree in Computer Science from the Central University of Kerala, specializing in Intelligent Systems. Proficient in Python, scikit-learn, and machine learning frameworks, I have experience in developing predictive models, data cleaning, and feature engineering. Passionate about leveraging AI and data-driven solutions to solve complex problems and make a positive societal impact.
 
 
 
