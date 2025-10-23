@@ -4,7 +4,6 @@
 <h1 align="center"></h1>
 Data Scientist with an M.Sc. in Computer Science from Central University of Kerala. Proficient in Python, scikit-learn, and AI frameworks, specializing in machine learning, predictive modeling, and intelligent applications. Passionate about creating data-driven solutions to solve real-world challenges.
 
-📫 Ping Me Here **libamariyam375@gmail.com**
 
 <h1 align="center"></h1>
 
